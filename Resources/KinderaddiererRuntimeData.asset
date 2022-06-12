@@ -9,7 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c575f41317684181b17f9ef40c24a2f, type: 3}
+  m_Script: {fileID: 11500000, guid: 75ce950063d704f4a947c57a44fe1fb5, type: 3}
   m_Name: KinderaddiererRuntimeData
   m_EditorClassIdentifier: 
   nameKid: 
+  showPic: 
+  scoreResult: 
+  scoreMessage: 0
